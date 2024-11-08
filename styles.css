@@ -5,13 +5,15 @@
 	border-radius: 30px 30px 30px 30px;
 	border: 2px dotted darkblue;
 	
+	
 }
 .container ul{
 		list-style: none; /* Removing bullets */
       padding: 0;
       margin: 0;
+	display: flex;
 }
 .container ul li {
-      display: inline;
+      
       margin-right: 1rem; /* Space between items */
     }
